@@ -4,7 +4,7 @@
   "pass3": "ermiacodein88",
   "pass4": "megacodein",
   "pass5": "nopass",
-  "pass6": "topcode-gp9052",
+  "pass6": "topcode",
   "pass7": "nopass",
   "pass8": "nopass",
   "pass9": "nopass",
