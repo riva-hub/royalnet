@@ -1,6 +1,6 @@
 {
   "pass1": "giorba-bin3472",
-  "pass2": "pinkorca-itekip100",
+  "pass2": "nopass",
   "pass3": "ermiacodein88",
   "pass4": "megacodein",
   "pass5": "nopass",
